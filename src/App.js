@@ -1,9 +1,8 @@
 import './App.css';
+import BeerCounter from './components/BeerCounter';
 
 function App() {
-  return (
-    <h3> esta será nuestra BIRRITENZ app :) </h3>
-  )
+  return <BeerCounter/>
 }
 
 export default App;
