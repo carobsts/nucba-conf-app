@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.css';
 
-const Title = ({ title }) => {
+const Title = () => {
     return (
         <div className="title-container">
-            <h3> { title } </h3>
+            <h3> Título :) </h3>
         </div>
     )
 }

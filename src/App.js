@@ -1,8 +1,7 @@
 import './App.css';
-import BeerCounter from './components/BeerCounter';
 
 function App() {
-  return <BeerCounter/>
+  return <h1 style={{ textAlign: 'center' }}> esta será nuestra BIRRITENZ app :) </h1>
 }
 
 export default App;

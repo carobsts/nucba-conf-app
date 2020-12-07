@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Label = ({ text }) => {
+const Label = () => {
     return (
         <div>
-            <label> { text } </label>
+            <label></label>
         </div>
     )
 }

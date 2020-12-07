@@ -1,11 +1,9 @@
 import React from 'react';
 
-const BeerButton = ({ handleClick }) => {
+const BeerButton = () => {
     return (
         <div>
-            <button 
-            onClick={ () => handleClick() }
-            />
+            <button/>
         </div>
     )
 }
