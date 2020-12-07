@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.css';
 
-const IconContainer = ({ img }) => {
+const IconContainer = () => {
     return (
         <div className="icon-container --img">
-            <img src={img} alt="beer-img" />
+            <img src='' alt="beer-img" />
         </div>
     )
 }
